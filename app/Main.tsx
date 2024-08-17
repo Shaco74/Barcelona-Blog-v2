@@ -14,6 +14,10 @@ export default function Home({ posts }) {
           <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
             Aktuell
           </h1>
+          <div className="border border-blue-800 rounded p-4 mx-2 my-6 bg-blue-300 w-3/5">
+            <span className="block text-2xl font-semibold text-blue-900">Update</span>
+            <div className="text-black">Es gibt neue Fragen im Fragengenerator!</div>
+          </div>
         </div>
         <ul className="divide-y divide-gray-200 dark:divide-gray-700">
           {!posts.length && 'No posts found.'}

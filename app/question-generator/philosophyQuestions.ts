@@ -278,6 +278,26 @@ const philosophyQuestions = [
     description:
       'Können härtere Bestrafungen das Kriminalitätsproblem lösen und für mehr Sicherheit sorgen? Oder löst es sogar einen gegenteiligen Effekt aus? Ist härtere Bestrafung eine wirksame Abschreckung, die jemanden von einer Straftat abhält? Manche Studien sind zu dem Ergebnis gekommen, dass harte Strafen die Rückfallquote von Kriminellen sogar erhöhen. Und welchen Einfluss haben härtere Strafen auf die Durchschnittsbevölkerung? Sorgt es für ein höheres Sicherheitsgefühl?',
   },
+  {
+    question: 'Welchen Rat würdest du deinem jüngeren Ich geben?',
+    description:
+      'Was würdest du deinem jüngeren Ich raten, wenn du die Möglichkeit dazu hättest? Würdest du ihm/ihr sagen, dass er/sie sich weniger Sorgen machen soll? Oder würdest du ihm/ihr raten, mehr Risiken einzugehen? Was würdest du deinem jüngeren Ich raten, wenn du die Möglichkeit dazu hättest?',
+  },
+  {
+    question: 'Der letzte Tag auf der Erd - Was würdest du tun?',
+    description:
+      'Stell dir vor, du wüsstest, dass morgen die Welt untergeht. Was würdest du an deinem letzten Tag auf der Erde tun? Würdest du deine Familie und Freunde um dich haben wollen? Würdest du die Welt bereisen? Oder würdest du einfach nur zu Hause bleiben und die Zeit mit deinen Liebsten verbringen?',
+  },
+  {
+    question: 'Wenn du Zeitreisen könntest, in welche Zeit würdest du reisen?',
+    description:
+      'Welche Zeitperiode würdest du gerne besuchen? Würdest du in die Vergangenheit oder in die Zukunft reisen? Und warum?',
+  },
+  {
+    question: 'Was für Spuren hast du bisher in deinem Leben hinterlassen?',
+    description:
+      'Wie hast du dein Umfeld beeinflusst? Was hast du bisher erreicht? Was möchtest du in deinem Leben noch erreichen?',
+  },
 ]
 
 export default philosophyQuestions
